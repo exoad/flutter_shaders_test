@@ -239,7 +239,6 @@ class _MyAppState extends State<MyApp> {
     load("shaders/ve_box_blur.frag");
     load("shaders/ve_invert.frag");
     load("shaders/ve_chromatic_abberation.frag");
-    load("shaders/ve_emboss.frag");
   }
 
   @override
